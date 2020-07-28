@@ -1,7 +1,7 @@
 This package is created for statistical analysis and for machine learning 
-least square linear rigression model cost function evaluation by Normal
-(Gussian) distribution. It also can be use to calculate the mean and standard  
-deviation of a data set.
+least square linear rigression model cost function calculation by Normal
+(Gussian) distribution. It can also be used to calculate the mean and standard  
+deviation of a given data set.
 
 It has two classes
 class Distribution: This contains two methods
