@@ -1,7 +1,7 @@
 This package is created for statistical analysis and for probability density function calculation. 
 Statistical analysis involving calculation of mean and standard  deviation of a given data set.
 
-It has two classes
+The package has two classes
 
 class Distribution: This contains two methods
     method(class attributes)
