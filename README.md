@@ -1,7 +1,5 @@
-This package is created for statistical analysis and for machine learning 
-least square linear rigression model cost function calculation by Normal
-(Gussian) distribution. It can also be used to calculate the mean and standard  
-deviation of a given data set.
+This package is created for statistical analysis and for probability density function calculation. 
+Statistical analysis involving calculation of mean and standard  deviation of a given data set.
 
 It has two classes
 class Distribution: This contains two methods
@@ -17,9 +15,9 @@ class Normal: This contains six methods
     
     calculate_std() returns the standard deviation of the data set.
     
-    distribution_plot() returns the gussian plot of the data set.
+    distribution_plot() returns the histogram plot of the data set to visualize the distribution.
     
-    normal_distribution() returns the Gussian distribution value for a given
+    normal_distribution() returns the probability density function value for a given
     point.
     
     to add two normal distributions together, add_distribution(other) where 
